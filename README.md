@@ -1,8 +1,10 @@
 # 👋 Bienvenue sur ma page Github, moi c'est Oscar Li :)
 
-🎓 Étudiant en **Modélisation et Applications de l'Intelligence Artificielle** 
-🔍 Je recherche une **alternance de 2 ans en Data Science / Machine Learning** dans le cadre de ma deuxième et troisième année d'école d'ingénieurs
-   Le rythme serait de 2 jours en entreprise et 3 jours à l'école. 
+🎓 Étudiant en **Modélisation et Applications de l'Intelligence Artificielle**  
+
+🔍 Je recherche une **alternance de 2 ans en Data Science / Machine Learning** dans le cadre de ma deuxième et troisième année d'école d'ingénieurs.  
+
+Le rythme serait de 2 jours en entreprise et 3 jours à l'école. 
 
 ---
 
